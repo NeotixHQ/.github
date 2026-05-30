@@ -32,13 +32,13 @@ Status: **In development**
 
 ---
 
-### Augment-Labs by NeotixHQ
+### Calix by NeotixHQ
 
-**Exploring AI-assisted hiring workflows.**
+**Exploring calibrated hiring decisions.**
 
-Augment-Labs explores how AI can help hiring managers turn job requirements, candidate signals, and interview preparation into a clearer decision workflow.
+Calix explores how AI can help hiring managers turn job requirements, candidate signals, and interview preparation into a clearer, more structured decision workflow.
 
-The goal is not to replace human judgment. The goal is to reduce friction, preserve context, and help hiring managers make better-prepared decisions.
+The goal is not to replace human judgment. The goal is to reduce friction, preserve context, and help hiring managers make better-prepared, better-calibrated decisions.
 
 Status: **MVP**
 
